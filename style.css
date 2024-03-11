@@ -55,6 +55,42 @@ body {
     display: block;
 }
 
+
+.ativo{
+    background-color: var(--botao-ativo);
+    border-bottom: 4px solid var(--verde);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (min-width: 768px) {
     .botoes 
         display: flex;
@@ -76,5 +112,3 @@ body {
             border-radius: 0 40px 0 0;
         }
     }
-
-
